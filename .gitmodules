@@ -1,3 +1,9 @@
 [submodule "nodews"]
 	path = nodews
 	url = git@github.com:ben46/nodews.git
+[submodule "xqfollower"]
+	path = xqfollower
+	url = git@github.com:ben46/xqfollower.git
+[submodule "Listener"]
+	path = Listener
+	url = git@github.com:ben46/Listener.git
